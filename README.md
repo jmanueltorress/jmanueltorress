@@ -1,6 +1,6 @@
 Welcome to my GitHub profile!
 
-- 👋 Hi, I'm @jmanueltorress (Software Developer).
+- 👋 Hi, I'm @jmanueltorress (Software Engineer).
 - 👾 I'm interested in frontend and backend in Web development & Desktop Apps.
 - 🌱 I am currently learning Non-SQL Databases, JavaScript, PHP, Libraries, Frameworks and Mobile Development
 
