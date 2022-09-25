@@ -1,4 +1,6 @@
 Welcome to my GitHub profile!
+#ThisRepository 
+![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
 
 - 👋 Hi, I'm @jmanueltorress (Software Engineer).
 - 👾 I'm interested in frontend and backend in Web development & Desktop Apps.
@@ -6,9 +8,6 @@ Welcome to my GitHub profile!
 
 - I like to be constantly learning about technology
 
-
-#Repository 
-![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
 
 - Here you will find the source code of web projects, desktop systems, mobile applications and programming logic exercises in java, java script, php and c++.
 
