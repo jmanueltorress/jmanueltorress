@@ -17,6 +17,13 @@ Welcome to my GitHub profile!
 
 🌟 I share part of my experience as a programmer.
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!---
 /Readme.md
 --->
