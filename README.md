@@ -1,4 +1,4 @@
-![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
+. ![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
 
 - 👋 Hi, I'm @jmanueltorress (Software Engineer).
 - 👾 I'm interested in frontend and backend in Web development & Desktop Apps.
