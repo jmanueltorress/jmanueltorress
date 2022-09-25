@@ -1,6 +1,8 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Hello There 👋 
+![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962) 
+</h1>
 
-<div  align="center"> ![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962) </div>
+
 
 
 - 👋 Hi, I'm @jmanueltorress (Software Engineer).
