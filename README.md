@@ -7,11 +7,6 @@ Welcome to my GitHub profile!
 - I like to be constantly learning about technology
 
 
-
-- 📫 How to contact me: https://www.linkedin.com/in/juanmanuel-ts/
-
-
-
 #Repository 
 ![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
 
@@ -19,6 +14,9 @@ Welcome to my GitHub profile!
 
 🌟 I share part of my experience as a programmer.
 
+
+
+- 📫 How to contact me: https://www.linkedin.com/in/juanmanuel-ts/
 
 <!---
 /Readme.md
