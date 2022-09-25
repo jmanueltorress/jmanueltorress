@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - 📫 How to contact me: https://www.linkedin.com/in/juanmanuel-ts/
 
 
-![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=9565d1&text_color=9f9f9f&bg_color=c3efff)
+![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=9565d1&text_color=9f9f9f&bg_color=4635AD)
 
 #Repository content
 - Here you will find the source code of web projects, desktop systems, mobile applications and programming logic exercises in java, java script, php and c++.
