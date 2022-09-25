@@ -1,6 +1,5 @@
-<h1 align="center"> Hello There 👋 
+<h1 align="center"> Hello There 👋 </h1>
 
-</h1>
 - 👋 Hi, I'm @Juan Manuel Torres 'Software Engineer'.
 ![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962) 
 
