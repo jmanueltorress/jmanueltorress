@@ -2,6 +2,9 @@
 
 
 ![Dipto jmanueltorress Github Stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true_color=fff&icon_color=77ff9b&text_color=fff&bg_color=061962)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanueltorress)](https://github.com/jmanueltorress/jmanueltorress)
+
 - 👋 Hi, I'm @Juan Manuel Torres 'Software Engineer'.
 
 - 👾 I'm interested in frontend and backend in Web development & Desktop Apps.
