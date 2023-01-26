@@ -1,4 +1,6 @@
-<h1 align="center"> Hello There 👋 </h1>
+<div align="center">
+<h1 > Hello There 👋 </h1>
+ <p> Visitors:</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)
 
@@ -7,22 +9,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanueltorress)](https://github.com/jmanueltorress)
 
-- 👋 Hi, I'm @Juan Manuel Torres 'Software Engineer'.
-
-- 👾 I'm interested in frontend and backend in Web development & Desktop Apps.
-- 🌱 I am currently learning Non-SQL Databases, JavaScript, PHP, Libraries, Frameworks and Mobile Development
-
-- I like to be constantly learning about technology
 
 
-- Here you will find the source code of web projects, desktop systems, mobile applications and programming logic exercises in java, java script, php and c++.
+<h3 > 🤟 Hi, I'm @Juan Manuel Torres 'Software Engineer'. </h3>
+<h4 > 👾 I'm interested in frontend and backend in Web development & Desktop Apps.</h4>
+<h4 > 🌱 I am currently learning Non-SQL Databases, JavaScript, PHP, Libraries, Frameworks and Mobile Development</h4>
+<h4 > 📈 I like to be constantly learning about technology</h4>
+<h4 > 👁‍🗨 Here you will find the source code of web projects, desktop systems, mobile applications and programming logic exercises in java, java script, php and c++.</h4>
 
-🌟 I share part of my experience as a programmer.
+<h5 align="right"> 
+🌟 I share part of my experience as a programmer.</h5>
 
-## Tech Stack :computer:
+</div>
+
+
+
+
+
+## <h2 align="center">Tech Stack  </h2>
 
 <br>
-<table>
+<table align="center">
 <tbody>
  <tr>
 
