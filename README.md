@@ -1,5 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
+![Visitor Count](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)
 
 
 ![jmanueltorress GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true&theme=transparent)
