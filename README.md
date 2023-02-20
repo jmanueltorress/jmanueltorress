@@ -11,11 +11,6 @@
 
 
 
-<h3 > 🤟 Hi, I'm @Juan Manuel Torres 'Software Engineer'. </h3>
-<h4 > 👾 I'm interested in frontend and backend in Web development & Desktop Apps.</h4>
-<h4 > 🌱 I am currently learning Non-SQL Databases, JavaScript, PHP, Libraries, Frameworks and Mobile Development</h4>
-<h4 > 📈 I like to be constantly learning about technology</h4>
-<h4 > 👁‍🗨 Here you will find the source code of web projects, desktop systems, mobile applications and programming logic exercises in java, java script, php and c++.</h4>
 
 <h5 align="right"> 
 🌟 I share part of my experience as a programmer.</h5>
