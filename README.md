@@ -19,11 +19,12 @@
 
 
 
-
+<!---
 
 ## <h2 align="center">Tech Stack  </h2>
 
 <br>
+ 
 <table align="center">
 <tbody>
  <tr>
@@ -87,7 +88,7 @@
 
 </tbody>
 </table>
-
+--->
 <h3 align="center"> How to contact me 📫 </h3>
 <br />
 <p align="center">
