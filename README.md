@@ -1,8 +1,7 @@
 <div align="center">
 <h1 > Hello There 👋 </h1>
-<!-- <p> Visitors:</p>
 
- [VisitorCount](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)-->
+ [](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)
 
 
 ![jmanueltorress GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true&theme=transparent)
@@ -19,7 +18,6 @@
 
 
 
-<!---
 
 ## <h2 align="center">Tech Stack  </h2>
 
