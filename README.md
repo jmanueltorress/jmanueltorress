@@ -2,7 +2,7 @@
 <h1 > Hello There 👋 </h1>
  <p> Visitors:</p>
 
-![Visitor Count](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)
+/**![Visitor Count](https://profile-counter.glitch.me/{jmanueltorress}/count.svg)*/
 
 
 ![jmanueltorress GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanueltorress&show_icons=true&theme=transparent)
