@@ -9,7 +9,7 @@
       </h1>
     </td>
     <td>
-      <img src="https://profile-counter.glitch.me/{jmanueltorress}/count.svg" alt="contador de visitas" />
+    <!-- <img src="https://profile-counter.glitch.me/{jmanueltorress}/count.svg" alt="contador de visitas" />  -->
     </td>
   </tr>
 </table>
